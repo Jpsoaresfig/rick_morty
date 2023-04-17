@@ -1,0 +1,42 @@
+.episode-list {
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+    margin: 2rem 0;
+    list-style: none;
+    
+  }
+  
+  .episode-list li {
+    margin: 1rem 0;
+    text-align: center;
+   
+  }
+  
+  .episode-card img {
+    max-width: 100px;
+    position: relative;
+    display: flex;
+    display: inline-block;
+     margin-right: 20px; /* Adiciona um espaço entre os itens */
+     margin-top: 10px;
+     
+    
+  }
+  
+  .character-list img {
+    max-width: 60px;
+  }
+  .character-list{
+    display: flex;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+  .episode-card{
+    margin-bottom: 10px;
+  }
+  .segundo_link3{
+
+  }

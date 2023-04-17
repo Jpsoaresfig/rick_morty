@@ -1,0 +1,54 @@
+
+.image_rick{
+    position: absolute;
+    margin-left: 20em;
+    width: 56%;
+    top:12em;
+    -webkit-box-shadow: 8px 12px 8px 5px rgba(0,0,0,0.89);
+    -moz-box-shadow: 8px 12px 8px 5px rgba(0,0,0,0.89);
+    box-shadow: 8px 12px 8px 5px rgba(0,0,0,0.89);
+    
+}
+.titulo{
+    position:absolute
+    ;top: 0em;
+    color: black;
+    left: 0em;
+    background-color: chartreuse;
+    width: 30em;
+    height: 2.5em;
+}
+.primeiro_link{/*galeria*/
+position: absolute;
+left: 85em;
+color: black;
+top: 5em;
+background-color: black;
+
+}
+.segundo_link{/*episodio*/
+    position: absolute;
+    left: 77em;
+    top: 5em;
+    color: aliceblue;
+    background-color: black;
+}
+.terceiro_link{/*home*/
+    position: absolute;
+    left: 70em;
+    top: 5em;
+    background-color: black;
+
+}
+p{ 
+    position: absolute;
+    bottom: 3em;
+}
+.image_rick2{
+    width: 300px;
+}
+.image_rick3{
+    position: absolute;
+    width: 300px;
+    left: 76em;
+}
